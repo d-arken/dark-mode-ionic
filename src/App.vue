@@ -8,11 +8,17 @@
 import { IonApp, IonRouterOutlet } from '@ionic/vue';
 import { defineComponent } from 'vue';
 
-export default defineComponent({
+const App = defineComponent({
   name: 'App',
   components: {
     IonApp,
     IonRouterOutlet
   }
 });
+
+
+export default App
+
+
+
 </script>
