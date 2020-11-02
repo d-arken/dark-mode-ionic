@@ -1,0 +1,7 @@
+{
+  "name": "darkmdev",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
