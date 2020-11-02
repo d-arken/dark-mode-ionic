@@ -3,7 +3,7 @@
     <ion-header>
       <ion-toolbar>
         <ion-title>
-           DarkMode
+          Tabs
         </ion-title>
         <ion-buttons slot="end">
           <dark-mode-switcher />
